@@ -12,7 +12,7 @@ El objetivo principal del proyecto es analizar la composición y distribución d
 El análisis se enfoca en las siguientes hipótesis iniciales:
 
 1. **Distribución geográfica**: Dado que la sede principal de la empresa se encuentra en Córdoba, se espera que al menos el 70% de las ventas provengan de esta localidad.
-2. **Concentración de ventas en tiendas**: El 60% de las operaciones deberían estar concentradas en tres de las tiendas principales (Tiendas 1, 2 y 5).
+2. **Concentración de ventas en tiendas**: El 60% de las operaciones deberían estar concentradas en tres de las tiendas principales (Tiendas 1, 2 y 3).
 3. **Comportamiento temporal de las ventas**: Se asume que la mayoría de las ventas ocurren durante los fines de semana.
 4. **Patrones horarios**: Se estima que una cantidad considerable de ventas se realizan en horarios de siesta.
 
